@@ -1,1 +1,2 @@
-# Restart_CP_Journey
+-> Current rating
+Codeforce - 800
