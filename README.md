@@ -1,4 +1,6 @@
+
 # 📊 Current Ratings & Progress
 
-- **Codeforces:** ✅ Problems Solved: **0**
-- **LeetCode:** ✅ Problems Solved: **0**
+- **Codeforces:** ✅ Problems Solved: **99**
+- **LeetCode:** ✅ Problems Solved: **240**
+
