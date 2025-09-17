@@ -1,3 +1,9 @@
--> #Current rating : 
-Codeforce - 800 (99 problems solved)
-LeetCode - 1458 (240 problem solved)
+
+
+# Current Ratings & Progress
+
+- **Codeforces:** `800`  
+  ✅ Problems Solved: **99**
+
+- **LeetCode:** `1458`  
+  ✅ Problems Solved: **240**
