@@ -29,8 +29,9 @@
 
 
 
+
 # 📊 Current Ratings & Progress
 
-- **Codeforces:** `Rating: 800`  ✅ Problems Solved: **104**
+- **Codeforces:** `Rating: 800`  ✅ Problems Solved: **105**
 - **LeetCode:** `Rating: 1458.041`  ✅ Problems Solved: **247**
 
